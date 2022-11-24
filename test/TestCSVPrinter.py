@@ -1,6 +1,6 @@
 import unittest
 import sys
-sys.path.append('../speciallecture')
+#sys.path.append('../speciallecture')
 from speciallecture.sample import CSVPrinter
 
 
